@@ -20,7 +20,7 @@ We use the released data from L2KD's authors [here](https://www.dropbox.com/s/t5
 ## Dependencies (same as L2KD)
 python packages are listed in `requirements.txt`
 
-## 🔧 Setup (same as L2KD)
+## Setup (same as L2KD)
 1. Create the following two directories in wherever you want. (you can name the directories arbitrarily):
     - `data directory`: Where the dataset will be load by the model.
     - `model directory`: The place for the model to dump its outputs.
