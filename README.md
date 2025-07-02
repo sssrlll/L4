@@ -1,4 +1,4 @@
-# L4: Mutual \underline{L}earning Helps \underline{L}ifelong \underline{L}anguage \underline{L}earning
+# L4: Mutual Learning Helps Lifelong Language Learning
 
 Code for the paper "[L4: Mutual \underline{L}earning Helps \underline{L}ifelong \underline{L}anguage \underline{L}earning]"  
 
