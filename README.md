@@ -1,6 +1,6 @@
 # L4: Mutual Learning Helps Lifelong Language Learning
 
-Code for the paper "[L4: Mutual \underline{L}earning Helps \underline{L}ifelong \underline{L}anguage \underline{L}earning]"  
+Code for the paper "[L4: Mutual Learning Helps Lifelong Language Learning]"  
 
 Our code is based on the released code from [Lifelong Language Knowledge Distillation](https://github.com/voidism/L2KD). Most of the settings are identical to theirs.
 
